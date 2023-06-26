@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "baseUrl": "./src",
+    "outDir": "./dist/",
+    "lib": ["ESNext"],
+    "moduleResolution": "NodeNext",
+    "module": "NodeNext",
+    "allowJs": true,
+    "forceConsistentCasingInFileNames": true,
+    "strictNullChecks": true,
+    "strict": true,
+    "resolveJsonModule": true,
+    "removeComments": true,
+    "pretty": true,
+    "noImplicitOverride": true,
+    "noEmitOnError": true,
+    "noErrorTruncation": true,
+    "rootDir": "./src"
+  }
+}
